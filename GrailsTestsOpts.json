@@ -1,0 +1,12 @@
+{
+ "pause": {
+   "_comment" : "Set true to pause testing until pause is false or empty again.",
+   "value": ""
+  },
+
+
+  "commandLineOptions": {
+   "_comment" : "Options passed to Grails....use -no-reports for no HTML reports.",
+   "value": "-echoErr"
+  }
+}
